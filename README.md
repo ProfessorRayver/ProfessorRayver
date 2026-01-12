@@ -1,5 +1,5 @@
 # 💫 About Me:
-AWS Hackathon TOP 10 Finalist 2025<br>DLSU SIKAPTALA: ICT DEVCON National Quiz bee TOP 11 Finalist 2025<br>Polytechnic University Of the Philippines U-Week ICT quiz bee 2 TIME Champion 2024-2025 
+Amazon Web Services Hackathon TOP 10 Finalist 2025<br>DLSU SIKAPTALA: ICT DEVCON National Quiz bee TOP 11 Finalist 2025<br>Polytechnic University Of the Philippines U-Week ICT quiz bee 2 TIME Champion 2024-2025 
 
 
 ## 🌐 Socials:
